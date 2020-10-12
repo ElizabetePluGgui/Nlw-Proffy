@@ -6,5 +6,6 @@
   <a href="https://www.figma.com/file/7ADaywE82YwWGXxAfqkSvG/Happy-Web-(Copy)?node-id=0%3A1">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
-![nlw-03][./nlw-03.png]
+![nlw-03][./nlw-03/nlw-03.png]
+
 
