@@ -8,6 +8,6 @@
 
 
 
-![nlw][\www\fatec\Rocketseat-NLW-Todos\nlw-03\nlw.png]
+![nlw][./public/images/nlw.png]
 
 
