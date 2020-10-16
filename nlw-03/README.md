@@ -8,6 +8,6 @@
 
 
 
-![nlw][../nlw.png]
+![nlw][nlw.png]
 
 
